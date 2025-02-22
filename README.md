@@ -5,7 +5,7 @@ The objective is to jump from box to box without falling to the ground, while th
 
 The game was developed using the Three.js library to render 3D graphics and create an immersive experience.
 
-(lavagame.png)
+![lavagame](lavagame.png)
 
 ## Technologies Used
 Three.js: JavaScript library for in-browser 3D rendering.
